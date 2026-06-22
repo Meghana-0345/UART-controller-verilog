@@ -352,7 +352,7 @@ The complete verification suite successfully passed all test cases.
 | FAIL | 0 |
 | TOTAL | 14 |
 
-![Simulation Results](./Results/UART_Controller Test Cases.png)
+![Simulation Results](./Results/UART_Controller_Test_Cases.png)
 
 *Figure 2: Self-checking scoreboard output showing successful completion of all directed test scenarios.*
 
@@ -360,7 +360,7 @@ The complete verification suite successfully passed all test cases.
 
 # Waveform Results
 
-![UART Waveform](./Results/UART_Controller Waveform.png)
+![UART Waveform](./Results/UART_Controller_Waveform.png)
 
 *Figure 3: Simulation waveform showing UART frame reception, data reconstruction, and successful completion of the back-to-back transmission test.*
 
@@ -396,7 +396,7 @@ The design was synthesized using Intel Quartus Prime Lite Edition targeting the 
 | Memory Bits | 0 |
 | PLLs | 0 |
 
-![Quartus Resource Report](./Results/UART_Controller Resource Utilization.png)
+![Quartus Resource Report](./Results/UART_Controller_Resource_Utilization.png)
 
 *Figure 4: Quartus synthesis report demonstrating extremely low FPGA resource utilization.*
 
